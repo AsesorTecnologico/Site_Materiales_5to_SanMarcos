@@ -92,7 +92,7 @@ const driveLinks = {
         "tomo-ii": {
             "cap5": {
                 1: "https://docs.google.com/presentation/d/1-42AP0CgUFne96QNy23BN7pyXpx_boVL/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
+                2: "https://docs.google.com/presentation/d/1Ugvxwr5PLiQkYiNIm2cSbPOIAsA4irsY/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1jEIbNjbaE0fBU2E-qFfkyOi8yv6XNN59/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1UsWkSUOVnHUrqGzAETJE9MfZtnHLA7YS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1k_TTZtlSggKxl_59Nt-E8t7AQPu-Q12B/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
@@ -110,7 +110,7 @@ const driveLinks = {
             },
             "cap6": {
                 1: "https://docs.google.com/presentation/d/1Fl9xntjjLFFXKwxEdIj-XRtdIGGXvSV-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
+                2: "https://docs.google.com/presentation/d/1HCoeTt9dsIvPtZYLe5hFYZk7fDfNuZTM/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1nBEg_h3llw3wNcObyAA6z6IbgcA3ajGi/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1g-P_4s9OOmiam-qXKaJYxkGP2j0t6VyS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1lw34mYAr3Ob-qeo1T-i-vMicFNSPM55i/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
@@ -128,7 +128,7 @@ const driveLinks = {
             },
             "cap7": {
                 1: "https://docs.google.com/presentation/d/1G15l1YtK8RdKbe-2xDNTZug5qIc7Q-e4/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
+                2: "https://docs.google.com/presentation/d/1rM3qrE0yHew9U3gIkVDJOFozn1evhdqb/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1FscVT-6z9sCuDzWwtwhXaYtm_gImmmeD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1F5Brz-7v1woKgKnX8ZXy8GOqZy-QcTSk/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1B2zzinQI_yy6tI8p9YfYEGiWCM2SeS6b/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
@@ -146,7 +146,7 @@ const driveLinks = {
             },
             "cap8": {
                 1: "https://docs.google.com/presentation/d/1QSSr8WqYD6YdcUctm0TY5aoEjqOvI6R-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
-                2: "https://drive.google.com/drive/folders/ejemplo_1ro_tomoI_cap1_geografia?usp=drive_link", // Geografía
+                2: "https://docs.google.com/presentation/d/1blHwZMLMI_lEjHY-E1X6g4jFpQsuSWmz/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1Voisll9e75KVCfF7SqlLAgw3Hk6c_HbP/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1UT8xp_8u821uHRZkwLG0zujbWG5jDH1C/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1EImtMGZREyo5IhWGvr4OCzyZl910hPUn/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
