@@ -127,59 +127,59 @@ const driveLinks = {
                 20: "https://docs.google.com/presentation/d/148ai_OMS0DUlysL9Tl2sm2HzQ_slA_Ie/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             },
             "cap7": {
-                1: "https://docs.google.com/presentation/d/1G15l1YtK8RdKbe-2xDNTZug5qIc7Q-e4/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
+                1: "https://docs.google.com/presentation/d/1G15l1YtK8RdKbe-2xDNTZug5qIc7Q-e4/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Economía
                 2: "https://docs.google.com/presentation/d/1rM3qrE0yHew9U3gIkVDJOFozn1evhdqb/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1FscVT-6z9sCuDzWwtwhXaYtm_gImmmeD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1F5Brz-7v1woKgKnX8ZXy8GOqZy-QcTSk/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1B2zzinQI_yy6tI8p9YfYEGiWCM2SeS6b/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/15KYaBLe819z3yV-fFY0PNAVQJYdHbK5-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/15KYaBLe819z3yV-fFY0PNAVQJYdHbK5-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Lenguaje
                 9: "https://docs.google.com/presentation/d/1MdMtQsvOpLYBNMiO4ORCq5RJ8D6h56BJ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/14v9jmC8TB8771_CoIwB4_WlKb3eSlX7L/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
-                13: "https://docs.google.com/presentation/d/1UvBURCrElkbxN4gusdyq1W5Mf_R6iKqD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/1qgxMej_VQc5ohCuOb-kCkMwkyq2SNjxl/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1HS13dZSGfQoYn4UHQ-ke2TkFi2pPC2c3/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1-VYMhuRA56pYvIDX3HmrqtGe_rrwjPr-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                13: "https://docs.google.com/presentation/d/1UvBURCrElkbxN4gusdyq1W5Mf_R6iKqD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Biología
+                14: "https://docs.google.com/presentation/d/1qgxMej_VQc5ohCuOb-kCkMwkyq2SNjxl/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Física
+                15: "https://docs.google.com/presentation/d/1HS13dZSGfQoYn4UHQ-ke2TkFi2pPC2c3/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Química
+                16: "https://docs.google.com/presentation/d/1-VYMhuRA56pYvIDX3HmrqtGe_rrwjPr-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Álgebra
                 17: "https://docs.google.com/presentation/d/1y_83p30ClGFT4-o0YS3MzrIhDbEwzDnK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1Ndnx8x1LuQLnMNhn7Lw8GBbc0EMqtPh8/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/1ZyK2DggFo_G9PuQrZgE1kgVjvj5H_5PS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1ZyK2DggFo_G9PuQrZgE1kgVjvj5H_5PS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1o6VoYw7duijtN1T1lhts3pZp4_M-mCjr/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             },
             "cap8": {
-                1: "https://docs.google.com/presentation/d/1QSSr8WqYD6YdcUctm0TY5aoEjqOvI6R-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
+                1: "https://docs.google.com/presentation/d/1QSSr8WqYD6YdcUctm0TY5aoEjqOvI6R-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Economía
                 2: "https://docs.google.com/presentation/d/1blHwZMLMI_lEjHY-E1X6g4jFpQsuSWmz/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1Voisll9e75KVCfF7SqlLAgw3Hk6c_HbP/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1UT8xp_8u821uHRZkwLG0zujbWG5jDH1C/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1EImtMGZREyo5IhWGvr4OCzyZl910hPUn/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/11s2fDqMMMLZmNhBz9JbJK0hHbLXkvPFD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/11s2fDqMMMLZmNhBz9JbJK0hHbLXkvPFD/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Lenguaje
                 9: "https://docs.google.com/presentation/d/1FpdF0YLju95-tgOmTAVu48mypVHZcBku/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1tNvQHYuX3vazwbVrg0czEHweUXd8sk9L/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
                 13: "https://docs.google.com/presentation/d/1FHnIHk_f44PXF9xZaq192GeLJm1uFoA-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/1nwwgC879RJsjxvxREkgUnqeGXaujrNv2/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1c2UI_Ykc5WnJtJWCRyL1WMBOILibviy5/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1fIXTu3VRf4hdQw70ABbUYn9smBnvTZeK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                14: "https://docs.google.com/presentation/d/1nwwgC879RJsjxvxREkgUnqeGXaujrNv2/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Física
+                15: "https://docs.google.com/presentation/d/1c2UI_Ykc5WnJtJWCRyL1WMBOILibviy5/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Química
+                16: "https://docs.google.com/presentation/d/1fIXTu3VRf4hdQw70ABbUYn9smBnvTZeK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Álgebra
                 17: "https://docs.google.com/presentation/d/1sSsBPKQZJuqYHe72Qs_GWeZeKSNkYQFb/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1kPRtzmRfDArb2XaV2w3kuzeEkSGa0bmx/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/1A2KjNWQ9dKxluZPz-ME-iMKe9YGEZ4_r/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1A2KjNWQ9dKxluZPz-ME-iMKe9YGEZ4_r/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1zHU8YZE1WQftsYt5ZVNOIngHmdAqwqB9/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
                 }
             },
         "tomo-iii": {
             "cap9": {
-                1: "https://docs.google.com/presentation/d/1yOVDJCRz35jBOLwnL5enssJgy2ijYg9t/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
+                1: "https://docs.google.com/presentation/d/1yOVDJCRz35jBOLwnL5enssJgy2ijYg9t/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Economía
                 2: "https://docs.google.com/presentation/d/1nFwQLeuYKadQCZB1GRl2cRAeXI97O9FZ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1-Xa1M-O0__TNWj3ySlKOaAOiAOfOjkFa/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1l9sO7YJ7HrfzPdRmd6peGp3ou49DLudg/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1LSeu5hRvexlwJxgCCbMF4QzDLnieflq6/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/161lQM8HGgfoB2h-VZTum4NvmLCK4e_A7/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/161lQM8HGgfoB2h-VZTum4NvmLCK4e_A7/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Lenguaje
                 9: "https://docs.google.com/presentation/d/1U6WxbUvMCTfkIaibEtam3dDUVcC8ryGE/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/17Xk7ZaES0EymmyFJ7aj_vLA8BgVMdvi7/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
-                13: "https://docs.google.com/presentation/d/1ievxJ18x-OcfgoDHu990RoCrprsWQFdJ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/12L7CLsHJwH74XthlcfNk_vCrH-oOMVXd/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1hp6sbU1RN044Y15nyayVw6gwFqKluapl/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1E1nVssvsJpsBYVuTi8xs9Uvx_thBeJDK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                13: "https://docs.google.com/presentation/d/1ievxJ18x-OcfgoDHu990RoCrprsWQFdJ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Biología
+                14: "https://docs.google.com/presentation/d/12L7CLsHJwH74XthlcfNk_vCrH-oOMVXd/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Física
+                15: "https://docs.google.com/presentation/d/1hp6sbU1RN044Y15nyayVw6gwFqKluapl/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Química
+                16: "https://docs.google.com/presentation/d/1E1nVssvsJpsBYVuTi8xs9Uvx_thBeJDK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Álgebra
                 17: "https://docs.google.com/presentation/d/1b80mHnuGwuG2-PP3M6svT-K3fCh-XSBs/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/15YCSK5yyrqmYdVB1FsuWT9h-d8YroWsL/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/13fsSTaaT_tlbUQ8tAhJLIk0bEzsITSg4/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/13fsSTaaT_tlbUQ8tAhJLIk0bEzsITSg4/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1_saznwc1vZIaRxzDvoXdQDp2vqDoj4n6/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             },
             "cap10": {
@@ -188,52 +188,52 @@ const driveLinks = {
                 3: "https://docs.google.com/presentation/d/1bg0Gh5Yphyum0BTyGAU4VtyxOpTOR6VP/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1BHMw3LUJ5j9dEXlYu00onhu9GxwD1LeZ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1BjooDgVfR1aRRNgsI8n0lKgr3T52Sun5/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/1bVBh-YRvenGPVLkz5NizYD-o9lGvWd7h/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/1bVBh-YRvenGPVLkz5NizYD-o9lGvWd7h/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Lenguaje
                 9: "https://docs.google.com/presentation/d/1c3D3Fc_pHnejhi54b05RsJxqIT1YiabS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1luYr6Flyxtl6jsMinhPvA4zg-gsOIbQJ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
                 13: "https://docs.google.com/presentation/d/1-Px05PHmf5ARL0FiNXyuFbMnNn5X28Zq/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/1WU7PBgLJQMF2ITfPpS085iYhXjmh_ONR/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1zQtETjUZGjRurcapo24HOaORY7L7ZPUF/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1rdnq5BbEMeQnm9dy-wLojW28BVV97GYt/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                14: "https://docs.google.com/presentation/d/1WU7PBgLJQMF2ITfPpS085iYhXjmh_ONR/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Física
+                15: "https://docs.google.com/presentation/d/1zQtETjUZGjRurcapo24HOaORY7L7ZPUF/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Química
+                16: "https://docs.google.com/presentation/d/1rdnq5BbEMeQnm9dy-wLojW28BVV97GYt/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Álgebra
                 17: "https://docs.google.com/presentation/d/1SRhf5wqNqm1klBEJjco8Ar6B5lOO2ymE/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1Yk5NzBqScJzUsKjcpNsZC4I3iteqqVzp/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/1nTXr70ASUwIBlI1JIcJ6D-s3EgFjvV2w/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1nTXr70ASUwIBlI1JIcJ6D-s3EgFjvV2w/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1j7EiNpyG4KsvuEE20x_cZjlyz4vLOhDa/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             },
             "cap11": {
-                1: "https://docs.google.com/presentation/d/1p9qp9chRDk6hnYtPVmGZg1-ReZvSbEOo/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
+                1: "https://docs.google.com/presentation/d/1p9qp9chRDk6hnYtPVmGZg1-ReZvSbEOo/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Economía
                 2: "https://docs.google.com/presentation/d/1wjmZ7NZ9yM7RsxmbYunanr0mKNLyHu8t/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1ugqhW0OYr6PvDvo154Vvva-iOF6L5xlq/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1zI02Z_BFN1O5Hhd5Hd2k2QUTx1H9WpX1/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1jjudCuBK0tD4JaSNw68RYgGUrXc6DM5e/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/13qljVRQII8TCA2bVk8jz1sKAMKv7wfCM/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/13qljVRQII8TCA2bVk8jz1sKAMKv7wfCM/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Lenguaje
                 9: "https://docs.google.com/presentation/d/1cS61VCMNLIR9GIYYymZZACmV8sT30sAK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/10T9wSnivSR8Z2ji_ogmWz8qVllfcWyQZ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
                 13: "https://docs.google.com/presentation/d/1-2toToAxn4hSgz6rmHa061wsMPbl55ks/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/1AukZwCXB5JC2h2alM-IPtGfrKQ4QAg0b/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1FD49qnfPxKtRyS4B_5VYF42hW9HOON7a/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1e14A00xcr9leJDgf2_F2vXoBG8j0gGNh/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                14: "https://docs.google.com/presentation/d/1AukZwCXB5JC2h2alM-IPtGfrKQ4QAg0b/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Física
+                15: "https://docs.google.com/presentation/d/1FD49qnfPxKtRyS4B_5VYF42hW9HOON7a/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Química
+                16: "https://docs.google.com/presentation/d/1e14A00xcr9leJDgf2_F2vXoBG8j0gGNh/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Álgebra
                 17: "https://docs.google.com/presentation/d/1RHhdKaJa16LiSBJm69U_bBtE2GbCspaw/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1AiFZkGMQV3JSxGfMY8EWdOl_80U0e282/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/1FfCU3Q5cvN_ygxOiyske2g2M_nZ1kXoF/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1FfCU3Q5cvN_ygxOiyske2g2M_nZ1kXoF/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1DjUJyMW96SBYqrWYsiy_pgBrr2bATuKW/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             },
             "cap12": {
-                1: "https://docs.google.com/presentation/d/1Fl_6ddam5CHT2v_dbLs4DsMkr-zSPkFZ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Economía
+                1: "https://docs.google.com/presentation/d/1Fl_6ddam5CHT2v_dbLs4DsMkr-zSPkFZ/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Economía
                 2: "https://docs.google.com/presentation/d/1UW_MZFybE9V5CptzV98axPq1ajheqQyS/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geografía
                 3: "https://docs.google.com/presentation/d/1S7gUWp6JeiO0zJ02ZBeGftvCbTsl_nF6/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia del Perú
                 4: "https://docs.google.com/presentation/d/1RQuV0hfu4dI4zUY7SouwCXv7Fk5SjN27/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Historia Universal
                 5: "https://docs.google.com/presentation/d/1XlQeiFY7ejJ3wgYbRgSTnfxSMNg_Stlf/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Psicología
-                8: "https://docs.google.com/presentation/d/1xR8cHnUV6BDk7hoSeGohZX1j0lxpkr04/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Lenguaje
+                8: "https://docs.google.com/presentation/d/1xR8cHnUV6BDk7hoSeGohZX1j0lxpkr04/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Lenguaje
                 9: "https://docs.google.com/presentation/d/1WZneEP5WM_9W8p2Dattc0DVVq3haYFrl/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Literatura
                 10: "https://docs.google.com/presentation/d/1l3E2o8qalwkCyLt0bJvReVt0l0jwR6N2/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
-                13: "https://docs.google.com/presentation/d/1Ge3lCtUsVqUoTRHz4_Fi2TL4bscWspsK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
-                14: "https://docs.google.com/presentation/d/1oHIJS6-oBYrZVgczZAnbAK9TAXTRuvNE/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1NulXNVl_-l-dX6vOHWNMABAbpQ0HQRPi/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
-                16: "https://docs.google.com/presentation/d/1skYk7CGK9EodTq1ypqbHaMdcc_JYhi5-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
+                13: "https://docs.google.com/presentation/d/1Ge3lCtUsVqUoTRHz4_Fi2TL4bscWspsK/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Biología
+                14: "https://docs.google.com/presentation/d/1oHIJS6-oBYrZVgczZAnbAK9TAXTRuvNE/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Física
+                15: "https://docs.google.com/presentation/d/1NulXNVl_-l-dX6vOHWNMABAbpQ0HQRPi/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Química
+                16: "https://docs.google.com/presentation/d/1skYk7CGK9EodTq1ypqbHaMdcc_JYhi5-/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Álgebra
                 17: "https://docs.google.com/presentation/d/1zeHehgQglN4oABpyxTHuG0qRH08hDeaL/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1QZHgGp7lhCX7otTgKBR0eTFYs2z02X2t/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
-                19: "https://docs.google.com/presentation/d/1cjhr_mCZK3O3RJaNozpsDkMAQNPmi6q1/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",        // Razonamiento Matemático
+                19: "https://docs.google.com/presentation/d/1cjhr_mCZK3O3RJaNozpsDkMAQNPmi6q1/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Matemático
                 20: "https://docs.google.com/presentation/d/1Fgwff48QFkcnTnD0Ic9wzMIhtpVEyRKL/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true" // Trigonometría
             }
         },
