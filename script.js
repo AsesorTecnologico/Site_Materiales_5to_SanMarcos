@@ -451,7 +451,7 @@ const driveLinks = {
                 10: "https://docs.google.com/presentation/d/1615qXmmwkmt8ReRlZaCIV8XQsGCooGQI/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Razonamiento Verbal
                 13: "https://docs.google.com/presentation/d/1a4xsPvQD8_IgD00DQ0n8fwkDLA9xwnyr/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",  // Biología
                 14: "https://docs.google.com/presentation/d/1_Pvu6uXmtyHWJLeaGLU0PooaXa53_bmj/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",    // Física
-                15: "https://docs.google.com/presentation/d/1l3oKlvw9nxWkrz81sAj1c7BiAidO_gW1/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
+                15: "https://docs.google.com/presentation/d/1a-5tqWGawOtlMXPxZ-5JsYgd7Lv8gV_j/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Química
                 16: "https://docs.google.com/presentation/d/12tvf8Y11i8qfqGmI0TQSVPWcb6qKVYMV/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true",   // Álgebra
                 17: "https://docs.google.com/presentation/d/1Gti-S0llY3w0zielTAO-rQDZwdueNGpz/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Aritmética
                 18: "https://docs.google.com/presentation/d/1m8wiVmOntvUrY8MTe6lP1JmjRopOUjM1/edit?usp=drive_link&ouid=102717800894254475874&rtpof=true&sd=true", // Geometría
